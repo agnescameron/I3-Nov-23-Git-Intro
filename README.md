@@ -6,6 +6,6 @@ trying again
 I am trying
 I am trying again
 Trying again ...
-
+Hi, trying!
 
 and Bernhard is trying again
